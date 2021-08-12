@@ -16,7 +16,7 @@ function App() {
               <input
                 type="text"
                 placeholder="e.g. Introduction to Accounting"
-                style={{ width: "40%", height: "50px" }}
+                style={{ width: "80%", height: "50px" }}
               />
 
             </div>
