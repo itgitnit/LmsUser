@@ -229,7 +229,7 @@ function Basicdetails() {
                     </div>
                     <div class="input-group">
                         <div class="input-box">
-                            <NavLink to="/addcourses">
+                            <NavLink to="/">
                                 <button type="submit">Submit</button>
                             </NavLink>
                         </div>
