@@ -1,6 +1,7 @@
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 import './App.css';
+import Navbar from "./components/Navbar"
 import Pricing from "./Pricing"
 import Registeration from "./Registeration"
 import Select from "./Select"
@@ -22,7 +23,8 @@ function App() {
   return (
     <>
       <Switch>
-        <Route exact path="/" component={Pricing} />
+        <Route exact path="/" component={Navbar} />
+        <Route exact path="/pricing" component={Pricing} />
         <Route exact path="/registeration" component={Registeration} />
         <Route exact path="/select" component={Select} />
         <Route exact path="/select1" component={Select1} />

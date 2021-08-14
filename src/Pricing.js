@@ -10,7 +10,7 @@ const Pricing = () => {
                 <div class="plan plan1">
                     <h2>Trial Pack</h2>
                     <p class="price">Free</p>
-                    <NavLink to="/registeration" class="cta">Buy →</NavLink>
+                    <NavLink to="/registeration" class="cta">Start With Free Plan →</NavLink>
                     <p>Limited To 5 Course Creation</p>
                     <ul class="features">
                         <li>Upto 500 Users</li>
@@ -35,7 +35,7 @@ const Pricing = () => {
                     <h2>Plus Level</h2>
 
                     <p class="price">$90</p>
-                    <NavLink to="/registeration" class="cta">Buy →</NavLink>
+                    <NavLink to="/registeration" class="cta">Start With Free Plan →</NavLink>
                     <p>Unlimited Course Creation</p>
                     <ul class="features">
                         <li>Upto 500 Users</li>
@@ -60,7 +60,7 @@ const Pricing = () => {
                     <h2>Basic Plan</h2>
                     <p class="price">$50</p>
 
-                    <NavLink to="/registeration" class="cta">Buy →</NavLink>
+                    <NavLink to="/registeration" class="cta">Start With Free Plan →</NavLink>
                     <p>Unlimited Course Creation</p>
                     <ul class="features">
                         <li>Upto 50 Users</li>
