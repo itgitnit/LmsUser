@@ -36,7 +36,7 @@ a {
 .plan a {
   text-decoration: none;
   /* background-image: linear-gradient(260deg, #ec69d7 0%, #b579ee 100%); */
-  background: #383cc1;
+  background: rgb(27, 105, 179);
   padding: 10px;
   color: black;
   border-radius: 4px;
